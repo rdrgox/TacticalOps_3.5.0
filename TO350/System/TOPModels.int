@@ -1,0 +1,5 @@
+[Public]
+Object=(Name=TOPModels.TO_Console,Class=Class,MetaClass=Engine.Console)
+
+[TO_Console]
+ClassCaption=Tactical Ops Console

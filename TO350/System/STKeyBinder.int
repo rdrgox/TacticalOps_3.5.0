@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=STKeyBinder.stkbMMIKeyBinder,Class=Class,MetaClass=UMenu.UMenuModMenuItem, Description="SuperTeam KeyBinder,Open the SuperTeam KeyBinder to customize your key bindings.")
+

@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=CustomMenus.RestartMenuModMenuItem, Class=Class, MetaClass=UMenu.UMenuModMenuItem, Description="Reset Mutators,Reset the game to disable sticky mutators.")
+

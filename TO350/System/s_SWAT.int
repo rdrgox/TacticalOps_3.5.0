@@ -1,0 +1,5 @@
+[Public]
+Object=(Name=s_SWAT.s_SWATGame,Class=Class,MetaClass=Botpack.TournamentGameInfo,Description="Tactical Ops")
+Object=(Name=s_SWAT.s_MapList,Class=Class,MetaClass=Botpack.Maplist,Description="Tactical Ops Default Map List")
+
+Preferences=(Caption="Tactical Ops",Parent="Game Types",Class=s_SWAT.s_SWATGame,Immediate=True)
